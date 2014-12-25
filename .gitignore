@@ -1,0 +1,19 @@
+*.pyc
+*.pyo
+*.so
+*.class
+*~
+.DS_Store
+._.DS_Store
+build/
+/dist/
+MANIFEST
+/tornado.egg-info/
+.tox/
+.vagrant
+/.coverage
+/htmlcov/
+/pycharmenv/
+/devenv/
+# Used in demo apps
+secrets.cfg

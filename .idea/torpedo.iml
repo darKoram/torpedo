@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.4.2 virtualenv at ~/.virtualenvs/devenv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="sqlalchemy" />
+    <orderEntry type="module" module-name="vertica-sqlalchemy" />
+    <orderEntry type="module" module-name="sqlparse3" />
+    <orderEntry type="module" module-name="sqlparse" />
+    <orderEntry type="module" module-name="pyodbc" />
+    <orderEntry type="module" module-name="periscopy" />
+    <orderEntry type="module" module-name="Flask_SQLAlchemy-2.0_20141209-py3.4.egg" />
+    <orderEntry type="module" module-name="craigslist" />
+  </component>
+</module>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/.virtualenvs/devenv/lib/python3.4/site-packages/Flask_SQLAlchemy-2.0_20141209-py3.4.egg/.idea/Flask_SQLAlchemy-2.0_20141209-py3.4.egg.iml" filepath="$USER_HOME$/.virtualenvs/devenv/lib/python3.4/site-packages/Flask_SQLAlchemy-2.0_20141209-py3.4.egg/.idea/Flask_SQLAlchemy-2.0_20141209-py3.4.egg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pyprojects/scrapy/craigslist/.idea/craigslist.iml" filepath="$PROJECT_DIR$/../../../pyprojects/scrapy/craigslist/.idea/craigslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../periscopy/.idea/periscopy.iml" filepath="$PROJECT_DIR$/../periscopy/.idea/periscopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pyodbc/.idea/pyodbc.iml" filepath="$PROJECT_DIR$/../../../pyodbc/.idea/pyodbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../sqlalchemy/.idea/sqlalchemy.iml" filepath="$PROJECT_DIR$/../../../sqlalchemy/.idea/sqlalchemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../sqlparse3/sqlparse/.idea/sqlparse.iml" filepath="$PROJECT_DIR$/../../../sqlparse3/sqlparse/.idea/sqlparse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../sqlparse3/.idea/sqlparse3.iml" filepath="$PROJECT_DIR$/../../../sqlparse3/.idea/sqlparse3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/torpedo.iml" filepath="$PROJECT_DIR$/.idea/torpedo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../vertica-sqlalchemy/.idea/vertica-sqlalchemy.iml" filepath="$PROJECT_DIR$/../../../vertica-sqlalchemy/.idea/vertica-sqlalchemy.iml" />
+    </modules>
+  </component>
+</project>

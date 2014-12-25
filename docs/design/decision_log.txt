@@ -1,0 +1,16 @@
+
+Web Framework
+http://stackoverflow.com/questions/13163990/why-use-tornado-and-flask-together
+
+We will have lots of need for long running async services from tornado
+We will enjoy the simplicity of flask which has more tutorials and demos
+
+Python 3
+I needed a fresh python distro to initiate requirements.txt from scratch
+Also http://www.onthelambda.com/2014/05/13/damn-the-torpedoes-full-speed-ahead-making-the-switch-to-python-3/
+
+Virtualenv
+Always use it.
+http://www.marinamele.com/2014/07/install-python3-on-mac-os-x-and-use-virtualenv-and-virtualenvwrapper.html
+
+
