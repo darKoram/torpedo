@@ -17,6 +17,7 @@ MANIFEST
 /devenv/
 # Used in demo apps
 secrets.cfg
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
